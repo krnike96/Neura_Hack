@@ -2,7 +2,6 @@
 # 🌱 Crop Disease Detection
 
 **A farmer-centric AI solution to identify crop diseases through image analysis**  
-*Developed during a national-level hackathon at K.S. Rangasamy College of Technology, Erode, Tamil Nadu, India*
 
 ---
 
@@ -15,8 +14,9 @@ An AI-powered web application that helps farmers detect crop diseases early by a
 
 **Team Members**:  
 - Niket Kumar 
-- Sagar Kumar Patel(Team Leader)
-- Jay Prakash Sah 
+- Sagar Kumar Patel
+- Jay Prakash Sah
+- Hari Vignesh S(Team Leader)
 
 ---
 
@@ -75,11 +75,5 @@ As first-year students diving into AI/ML and app development, we:
 - [ ] Expand dataset to 100,000+ samples
 
 ---
-
-## 🏆 Hackathon Experience
-**Event**: Neura Hack  
-**Institution**: K.S. Rangasamy College of Technology  
-**Duration**: 36 hours  
-**Outcome**: Top 10 out of 61
 
 *"Though we couldn't complete the mobile app, this project taught us more than any classroom could about perseverance and practical problem-solving."*
